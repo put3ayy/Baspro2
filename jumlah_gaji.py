@@ -24,7 +24,7 @@ else:
 # Menghitung total gaji
 gaji_total = gaji + bonus
 
-#Output
+# Output
 print("\n======== Slip Gaji ========")
 print("Nama             :", nama)
 print("NIK              :", nik)
